@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        green200: "hsl(148, 38%, 91%)",
+        green600: "hsl(169, 82%, 27%)",
       },
     },
   },
